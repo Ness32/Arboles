@@ -1,0 +1,1390 @@
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 22-jun-2011 16:40:06
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, e
+Fecha: 22-jun-2011 16:40:06
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, e
+Fecha: 22-jun-2011 16:40:06
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: e, f, g
+Fecha: 22-jun-2011 16:40:06
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, h, i
+Fecha: 22-jun-2011 16:40:06
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, h, i
+Fecha: 22-jun-2011 16:40:06
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 22-jun-2011 16:40:06
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 22-jun-2011 16:40:43
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, e
+Fecha: 22-jun-2011 16:40:43
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, e
+Fecha: 22-jun-2011 16:40:43
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: e, f, g
+Fecha: 22-jun-2011 16:40:43
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, h, i
+Fecha: 22-jun-2011 16:40:43
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, h, i
+Fecha: 22-jun-2011 16:40:43
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 22-jun-2011 16:40:43
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 22-jun-2011 16:41:03
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, e
+Fecha: 22-jun-2011 16:41:03
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, e
+Fecha: 22-jun-2011 16:41:03
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: e, f, g
+Fecha: 22-jun-2011 16:41:03
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, h, i
+Fecha: 22-jun-2011 16:41:03
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, h, i
+Fecha: 22-jun-2011 16:41:03
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 22-jun-2011 16:41:03
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 05-nov-2012 13:50:49
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, e
+Fecha: 05-nov-2012 13:50:49
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, e
+Fecha: 05-nov-2012 13:50:49
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: e, f, g
+Fecha: 05-nov-2012 13:50:49
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, h, i
+Fecha: 05-nov-2012 13:50:49
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, h, i
+Fecha: 05-nov-2012 13:50:49
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 05-nov-2012 13:50:49
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 18:34:01
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, e
+Fecha: 16-nov-2012 18:34:01
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, e
+Fecha: 16-nov-2012 18:34:01
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: e, f, g
+Fecha: 16-nov-2012 18:34:01
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, h, i
+Fecha: 16-nov-2012 18:34:01
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, h, i
+Fecha: 16-nov-2012 18:34:01
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 16-nov-2012 18:34:01
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 18:35:50
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, e
+Fecha: 16-nov-2012 18:35:50
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, e
+Fecha: 16-nov-2012 18:35:50
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: e, f, g
+Fecha: 16-nov-2012 18:35:50
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, h, i
+Fecha: 16-nov-2012 18:35:50
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, h, i
+Fecha: 16-nov-2012 18:35:50
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 16-nov-2012 18:35:50
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, i
+Fecha: 16-nov-2012 18:36:20
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 16-nov-2012 18:36:20
+
+Factor de equilibrio: 2
+Rotacion Derecha-Izquierda
+Nodos en la rotación: b, j, i
+Fecha: 16-nov-2012 18:36:20
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, e
+Fecha: 16-nov-2012 18:36:20
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, e
+Fecha: 16-nov-2012 18:36:20
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: e, f, g
+Fecha: 16-nov-2012 18:36:20
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Derecha
+Nodos en la rotación: i, d, f
+Fecha: 16-nov-2012 18:36:20
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 18:43:20
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, e
+Fecha: 16-nov-2012 18:43:20
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, e
+Fecha: 16-nov-2012 18:43:20
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: e, f, g
+Fecha: 16-nov-2012 18:43:20
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, h, i
+Fecha: 16-nov-2012 18:43:21
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, h, i
+Fecha: 16-nov-2012 18:43:21
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 16-nov-2012 18:43:21
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 18:44:07
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, e
+Fecha: 16-nov-2012 18:44:07
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, e
+Fecha: 16-nov-2012 18:44:07
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: e, f, g
+Fecha: 16-nov-2012 18:44:07
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, h, i
+Fecha: 16-nov-2012 18:44:07
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, h, i
+Fecha: 16-nov-2012 18:44:07
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 16-nov-2012 18:44:07
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 18:44:19
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, e
+Fecha: 16-nov-2012 18:44:20
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, e
+Fecha: 16-nov-2012 18:44:20
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: e, f, g
+Fecha: 16-nov-2012 18:44:20
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, h, i
+Fecha: 16-nov-2012 18:44:20
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, h, i
+Fecha: 16-nov-2012 18:44:20
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 16-nov-2012 18:44:20
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 18:51:32
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, e
+Fecha: 16-nov-2012 18:51:32
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, e
+Fecha: 16-nov-2012 18:51:32
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: e, f, g
+Fecha: 16-nov-2012 18:51:33
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, h, i
+Fecha: 16-nov-2012 18:51:33
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, h, i
+Fecha: 16-nov-2012 18:51:33
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 16-nov-2012 18:51:33
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 19:12:15
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, hairo
+Fecha: 16-nov-2012 19:12:15
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, hairo
+Fecha: 16-nov-2012 19:12:15
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Derecha
+Nodos en la rotación: hairo, f, g
+Fecha: 16-nov-2012 19:12:15
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, hairo, i
+Fecha: 16-nov-2012 19:12:15
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 16-nov-2012 19:12:15
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 19:12:38
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, hairo
+Fecha: 16-nov-2012 19:12:38
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, hairo
+Fecha: 16-nov-2012 19:12:38
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: hairo, haero, f
+Fecha: 16-nov-2012 19:12:38
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 16-nov-2012 19:12:38
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: hairo, i, j
+Fecha: 16-nov-2012 19:12:38
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haero, i
+Fecha: 16-nov-2012 19:12:38
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 19:24:35
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Hairo
+Fecha: 16-nov-2012 19:24:35
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Hairo
+Fecha: 16-nov-2012 19:24:35
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Hairo, haero, f
+Fecha: 16-nov-2012 19:24:35
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 16-nov-2012 19:24:35
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Hairo, i, j
+Fecha: 16-nov-2012 19:24:35
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haero, i
+Fecha: 16-nov-2012 19:24:35
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 19:25:43
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 16-nov-2012 19:25:43
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 16-nov-2012 19:25:43
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 16-nov-2012 19:25:43
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 16-nov-2012 19:25:43
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 16-nov-2012 19:25:43
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 16-nov-2012 19:25:43
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 21:17:11
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 16-nov-2012 21:17:11
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 16-nov-2012 21:17:11
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 16-nov-2012 21:17:11
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 16-nov-2012 21:17:11
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 16-nov-2012 21:17:11
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 16-nov-2012 21:17:11
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 21:56:13
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 16-nov-2012 21:56:13
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 16-nov-2012 21:56:13
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 16-nov-2012 21:56:13
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 16-nov-2012 21:56:13
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 16-nov-2012 21:56:13
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 16-nov-2012 21:56:13
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 22:00:09
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 16-nov-2012 22:00:09
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 16-nov-2012 22:00:09
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 16-nov-2012 22:00:09
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 16-nov-2012 22:00:09
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 16-nov-2012 22:00:09
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 16-nov-2012 22:00:09
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 22:00:17
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 16-nov-2012 22:00:17
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 16-nov-2012 22:00:17
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 16-nov-2012 22:00:17
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 16-nov-2012 22:00:17
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 16-nov-2012 22:00:17
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 16-nov-2012 22:00:17
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 22:01:29
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 16-nov-2012 22:01:29
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 16-nov-2012 22:01:29
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 16-nov-2012 22:01:29
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 16-nov-2012 22:01:29
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 16-nov-2012 22:01:29
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 16-nov-2012 22:01:29
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 22:02:18
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 16-nov-2012 22:02:18
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 16-nov-2012 22:02:18
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 16-nov-2012 22:02:18
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 16-nov-2012 22:02:18
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 16-nov-2012 22:02:18
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 16-nov-2012 22:02:18
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 22:03:33
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 16-nov-2012 22:03:33
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 16-nov-2012 22:03:33
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 16-nov-2012 22:03:33
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 16-nov-2012 22:03:33
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 16-nov-2012 22:03:33
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 16-nov-2012 22:03:33
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 22:03:45
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 16-nov-2012 22:03:45
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 16-nov-2012 22:03:45
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 16-nov-2012 22:03:45
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 16-nov-2012 22:03:45
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 16-nov-2012 22:03:45
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 16-nov-2012 22:03:45
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 22:03:51
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 16-nov-2012 22:03:51
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 16-nov-2012 22:03:51
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 16-nov-2012 22:03:51
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 16-nov-2012 22:03:51
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 16-nov-2012 22:03:51
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 16-nov-2012 22:03:51
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 22:04:21
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 16-nov-2012 22:04:21
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 16-nov-2012 22:04:21
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 16-nov-2012 22:04:21
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 16-nov-2012 22:04:21
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 16-nov-2012 22:04:21
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 16-nov-2012 22:04:21
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 22:04:33
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 16-nov-2012 22:04:33
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 16-nov-2012 22:04:33
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 16-nov-2012 22:04:33
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 16-nov-2012 22:04:33
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 16-nov-2012 22:04:33
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 16-nov-2012 22:04:33
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 22:05:40
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 16-nov-2012 22:05:40
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 16-nov-2012 22:05:40
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 16-nov-2012 22:05:40
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 16-nov-2012 22:05:40
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 16-nov-2012 22:05:40
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 16-nov-2012 22:05:40
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 16-nov-2012 22:05:42
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 16-nov-2012 22:05:42
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 16-nov-2012 22:05:42
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 16-nov-2012 22:05:42
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 16-nov-2012 22:05:42
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 16-nov-2012 22:05:42
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 16-nov-2012 22:05:42
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 17-nov-2012 2:31:54
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 17-nov-2012 2:31:54
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 17-nov-2012 2:31:54
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 17-nov-2012 2:31:54
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 17-nov-2012 2:31:54
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 17-nov-2012 2:31:54
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 17-nov-2012 2:31:54
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 17-nov-2012 21:41:42
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 17-nov-2012 21:41:43
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 17-nov-2012 21:41:44
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 17-nov-2012 21:41:44
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 17-nov-2012 21:41:44
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 17-nov-2012 21:41:44
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 17-nov-2012 21:41:44
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 17-nov-2012 21:42:09
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 17-nov-2012 21:42:09
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 17-nov-2012 21:42:09
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 17-nov-2012 21:42:09
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 17-nov-2012 21:42:09
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 17-nov-2012 21:42:09
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 17-nov-2012 21:42:09
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 17-nov-2012 23:20:37
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 17-nov-2012 23:20:37
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 17-nov-2012 23:20:37
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 17-nov-2012 23:20:37
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 17-nov-2012 23:20:37
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 17-nov-2012 23:20:37
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 17-nov-2012 23:20:37
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 19-dic-2012 19:33:49
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, Haeiouro
+Fecha: 19-dic-2012 19:33:49
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, Haeiouro
+Fecha: 19-dic-2012 19:33:49
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Izquierda
+Nodos en la rotación: Haeiouro, haeiooro, f
+Fecha: 19-dic-2012 19:33:49
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: f, g, h
+Fecha: 19-dic-2012 19:33:49
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: Haeiouro, i, j
+Fecha: 19-dic-2012 19:33:49
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: d, haeiooro, i
+Fecha: 19-dic-2012 19:33:49
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 19-dic-2012 19:34:27
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, HAiro
+Fecha: 19-dic-2012 19:34:27
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, HAiro
+Fecha: 19-dic-2012 19:34:27
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Derecha
+Nodos en la rotación: HAiro, f, g
+Fecha: 19-dic-2012 19:34:27
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, HAiro, i
+Fecha: 19-dic-2012 19:34:27
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 19-dic-2012 19:34:27
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 19-dic-2012 19:34:41
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, HAiro
+Fecha: 19-dic-2012 19:34:41
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, HAiro
+Fecha: 19-dic-2012 19:34:41
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Derecha
+Nodos en la rotación: HAiro, f, g
+Fecha: 19-dic-2012 19:34:41
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, HAiro, i
+Fecha: 19-dic-2012 19:34:41
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 19-dic-2012 19:34:41
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 19-dic-2012 19:35:00
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, HAiro
+Fecha: 19-dic-2012 19:35:00
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, HAiro
+Fecha: 19-dic-2012 19:35:00
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Derecha
+Nodos en la rotación: HAiro, f, g
+Fecha: 19-dic-2012 19:35:00
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, HAiro, i
+Fecha: 19-dic-2012 19:35:00
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 19-dic-2012 19:35:00
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 6/09/2015 07:09:42 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, HAiro
+Fecha: 6/09/2015 07:09:42 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, HAiro
+Fecha: 6/09/2015 07:09:42 PM
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Derecha
+Nodos en la rotación: HAiro, f, g
+Fecha: 6/09/2015 07:09:42 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, HAiro, i
+Fecha: 6/09/2015 07:09:42 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 6/09/2015 07:09:42 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 7/09/2015 07:33:00 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, HAiro
+Fecha: 7/09/2015 07:33:00 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, HAiro
+Fecha: 7/09/2015 07:33:00 PM
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Derecha
+Nodos en la rotación: HAiro, f, g
+Fecha: 7/09/2015 07:33:00 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, HAiro, i
+Fecha: 7/09/2015 07:33:00 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 7/09/2015 07:33:00 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 7/09/2015 07:33:16 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, HAiro
+Fecha: 7/09/2015 07:33:16 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, HAiro
+Fecha: 7/09/2015 07:33:16 PM
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Derecha
+Nodos en la rotación: HAiro, f, g
+Fecha: 7/09/2015 07:33:16 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, HAiro, i
+Fecha: 7/09/2015 07:33:16 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 7/09/2015 07:33:16 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 7/09/2015 07:33:20 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, HAiro
+Fecha: 7/09/2015 07:33:20 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, HAiro
+Fecha: 7/09/2015 07:33:20 PM
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Derecha
+Nodos en la rotación: HAiro, f, g
+Fecha: 7/09/2015 07:33:20 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, HAiro, i
+Fecha: 7/09/2015 07:33:20 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 7/09/2015 07:33:20 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: a, b, c
+Fecha: 14/09/2015 07:43:04 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: c, d, HAiro
+Fecha: 14/09/2015 07:43:04 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: b, d, HAiro
+Fecha: 14/09/2015 07:43:04 PM
+
+Factor de equilibrio: -2
+Rotacion Izquierda-Derecha
+Nodos en la rotación: HAiro, f, g
+Fecha: 14/09/2015 07:43:04 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: g, HAiro, i
+Fecha: 14/09/2015 07:43:04 PM
+
+Factor de equilibrio: 2
+Rotacion Derecha-Derecha
+Nodos en la rotación: i, j, k
+Fecha: 14/09/2015 07:43:04 PM
+
